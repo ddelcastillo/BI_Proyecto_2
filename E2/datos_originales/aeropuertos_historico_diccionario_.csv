@@ -1,0 +1,14 @@
+id;label;definicion;ctype;unidades
+ano;Año;Año en el cual se registró el dato;Cat;NA
+mes;Mes;Mes en el cual se registró el dato;Cat;NA
+origen;Origen;Sigla IATA del aeropuerto donde se origina el trayecto;Cat;NA
+destino;Destino;Sigla IATA del aeropuerto donde termina el trayecto;Cat;NA
+tipo_equipo;Tipo de equipo;Código del tipo de avión utilizado para realizar el trayecto;Cat;NA
+tipo_vuelo;Tipo vuelo;Tipo de operación realizada entre ciudades (e.g., R, T);Cat;NA
+trafico;trafico;Tipo de tráfico (e.g, Internacional, nacional);Cat;NA
+empresa;Empresa;Nombre comercial de la empresa (Aerolínea);Cat;NA
+vuelos;Vuelos;Número de vuelos realizados en el mes especificado;Num;NA
+sillas;Sillas;Número total de asientos de pasajeros disponibles para la venta;Num;NA
+carga_ofrecida;Carga ofrecida;Capacidad de carga total disponible para el transporte de carga y correo;Num;kg
+pasajeros;Pasajeros;Número de pasajeros cuyo transporte le genera una remuneración comercial a la empresa;Num;NA
+carga_bordo;Carga a bordo;Carga total transportada que le genera una remuneración comercial a la empresa;Num;kg
