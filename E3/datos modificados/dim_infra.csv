@@ -1,0 +1,1321 @@
+codigo,nombre,departamento,tipo
+4JC_O,JUANCHACO,Valle del Cauca,aero_origen
+7FU_O,LA ESCONDIDA,Meta,aero_origen
+7GC_O,SAN FELIPE DEL PAUTO,Casanare,aero_origen
+7GD_O,VELASQUEZ,Boyacá,aero_origen
+7GF_O,LA UNION,Casanare,aero_origen
+7GG_O,LA ILUSION,Casanare,aero_origen
+7GH_O,LA VENTUROSA,Vichada,aero_origen
+7GL_O,LA JAGUA,Cesar,aero_origen
+7GS_O,EL ENCANTO,Vichada,aero_origen
+7GV_O,REPRESA DE LAS CANARIAS,Casanare,aero_origen
+7GY_O,LAS ACACIAS,Cundinamarca,aero_origen
+7GZ_O,COROZITO,Casanare,aero_origen
+7HB_O,HOTEL SAN DIEGO,Meta,aero_origen
+7HD_O,BOSQUES DE LA PRIMAVERA,Vichada,aero_origen
+7HE_O,GUACHARACAS (COLOMBAIMA),Cundinamarca,aero_origen
+7HF_O,GAVILAN DE LA PASCUA,Vichada,aero_origen
+7HG_O,DOROTEA B1,Casanare,aero_origen
+7HJ_O,MACOLLA,Casanare,aero_origen
+7HM_O,LLANO CAUCHO,Vichada,aero_origen
+7HN_O,ARMENIA,Casanare,aero_origen
+7HT_O,MANARE,Casanare,aero_origen
+7HV_O,LA BENDICION,Vichada,aero_origen
+7HX_O,PIVIJAY,Vichada,aero_origen
+7IA_O,MURIBA,Casanare,aero_origen
+7ID_O,LA MACOYA,Casanare,aero_origen
+7IF_O,LOS VENADOS,Vichada,aero_origen
+7IH_O,LOS KIOSCOS,Meta,aero_origen
+7IJ_O,LA LORENA,Casanare,aero_origen
+7NQ_O,EL PARAISO,Vichada,aero_origen
+7NS_O,JAGUAR,Meta,aero_origen
+7NT_O,OCELOTE,Meta,aero_origen
+9AB_O,GETSEMANI,Casanare,aero_origen
+9AC_O,MARIA ALEJANDRA,Casanare,aero_origen
+9AI_O,CAÑO GARZA,Casanare,aero_origen
+9AJ_O,SAN LUIS DE PACA,Vaupés,aero_origen
+9AK_O,CANANARI,Vaupés,aero_origen
+9AM_O,SAN FERNANDO,Casanare,aero_origen
+9AN_O,MARAREY,Casanare,aero_origen
+9AO_O,SANTA CLARA,Casanare,aero_origen
+9AR_O,SAN PABLO,Vaupés,aero_origen
+9AS_O,SIRENAS,Casanare,aero_origen
+9AT_O,COROCITO,Meta,aero_origen
+9AZ_O,REMACHE SUR,Casanare,aero_origen
+9BB_O,SAN MIGUEL,Meta,aero_origen
+9BE_O,LAS VEGAS,Casanare,aero_origen
+9BF_O,LA FRANCIA,Cesar,aero_origen
+9BH_O,GUAFITAS,Casanare,aero_origen
+9BI_O,SAN FELIPE,Casanare,aero_origen
+9BO_O,VENECIA DE GUANAPALO,Casanare,aero_origen
+9BS_O,LA COMARCA,Casanare,aero_origen
+9BW_O,LA FAZENDA,Meta,aero_origen
+9BY_O,SAN EDUARDO,Casanare,aero_origen
+9BZ_O,RIOSUCIO,Chocó,aero_origen
+9CA_O,LAS AGUILAS -CA,Valle del Cauca,aero_origen
+9CB_O,CAMARUCOS,Casanare,aero_origen
+9CC_O,EL TOTUMO,Casanare,aero_origen
+9CD_O,VARSOVIA,Casanare,aero_origen
+9CE_O,LA HERMOSA,Casanare,aero_origen
+9CF_O,SAN ESTEBAN,Casanare,aero_origen
+9CG_O,SAN JOSE DEL ARIPORO,Casanare,aero_origen
+9CI_O,LA CAIMANA,Casanare,aero_origen
+9CJ_O,EMAUS,Casanare,aero_origen
+9CL_O,LA VENTUROSA,Casanare,aero_origen
+9CU_O,COROCORA,Casanare,aero_origen
+9DE_O,LUNA PARK,Vichada,aero_origen
+9DI_O,SAN FELIPE,Guainía,aero_origen
+9LI_O,SAN SEBASTIAN,Meta,aero_origen
+9LQ_O,LA PONDEROSA,Meta,aero_origen
+9LW_O,EL PALMAR,Casanare,aero_origen
+9M1_O,TRES ESQUINAS AB,Caquetá,aero_origen
+9M2_O,LARANDIA,Caquetá,aero_origen
+9MQ_O,EL RASTRO,Vichada,aero_origen
+9MS_O,BETANIA,Casanare,aero_origen
+9NG_O,REMOLINOS,Meta,aero_origen
+A01_O,CAMPO ALEGRE,Guainía,aero_origen
+A02_O,CAÑO COLORADO,Guainía,aero_origen
+A03_O,FORTUL,Arauca,aero_origen
+A04_O,SANTA ROSA DEL SUR,Bolívar,aero_origen
+ABT_O,AGUA BLANCA,Tolima,aero_origen
+ACD_O,ALCIDES FERNANDEZ,Chocó,aero_origen
+ACI_O,EL MONASTERIO,Meta,aero_origen
+ACR_O,ARARACUARA,Caquetá,aero_origen
+ADZ_O,GUSTAVO ROJAS PINILLA,San Andrés islas,aero_origen
+AFC_O,FABAL-COALCESAR,Cesar,aero_origen
+AFI_O,EL RIO,Antioquia,aero_origen
+AGB_O,AGUA BLANCA,Tolima,aero_origen
+AGH_O,HACARITAMA,Cesar,aero_origen
+AGJ_O,JAMAICA,Casanare,aero_origen
+AGT_O,AGUA BLANCA,Tolima,aero_origen
+AGU_O,MARIA ANGELICA,Casanare,aero_origen
+AGY_O,BASE PRINCIPAL CELTA,Cesar,aero_origen
+ALR_O,ALFEMAR,Chocó,aero_origen
+ALT_O,ALTAMIRA,Casanare,aero_origen
+APO_O,ANTONIO ROLDAN BETANCOURT,Antioquia,aero_origen
+APY_O,APIAY - FAC,Meta,aero_origen
+ARA_O,LA RUBIERA,Arauca,aero_origen
+ARC_O,PERENCO,Casanare,aero_origen
+ARG_O,ARAGUANEY,Casanare,aero_origen
+ARQ_O,EL TRONCAL,Arauca,aero_origen
+AUC_O,SANTIAGO PEREZ QUIROZ,Arauca,aero_origen
+AUR_O,EL CORAJE,Magdalena,aero_origen
+AXM_O,EL EDEN,Quindío,aero_origen
+AYC_O,LA GLORIA,Cesar,aero_origen
+BAC_O,BANCO DE LA REPUBLICA,Antioquia,aero_origen
+BAQ_O,ERNESTO CORTISSOZ,Atlántico,aero_origen
+BAR_O,GUAICARAMO,Meta,aero_origen
+BBA_O,PIZARRO,Chocó,aero_origen
+BCA_O,CERREJON CENTRAL,La Guajira,aero_origen
+BCO_O,JULIA CAROLINA,Cesar,aero_origen
+BEC_O,BECERRIL,Cesar,aero_origen
+BEE_O,BENEFICENCIA DEL TOLIMA,Tolima,aero_origen
+BGA_O,PALONEGRO,Santander,aero_origen
+BGN_O,EL MILAGRO,Valle del Cauca,aero_origen
+BIZ_O,BIZERTA,Casanare,aero_origen
+BJA_O,BERLIN,Huila,aero_origen
+BJE_O,LA CASCAJERA,Santander,aero_origen
+BMG_O,BARRANCO MINAS,Guainía,aero_origen
+BNO_O,BUENOS AIRES,Santander,aero_origen
+BOC_O,SAN MARTIN,Cesar,aero_origen
+BOG_O,EL DORADO,"Bogotá, D.C.",aero_origen
+BQL_O,BARRANQUILLITA,Guaviare,aero_origen
+BSA_O,LA ESPERANZA,Santander,aero_origen
+BSC_O,JOSE CELESTINO MUTIS,Chocó,aero_origen
+BUN_O,BUENAVENTURA-GERARDO TOBAR LOPEZ,Valle del Cauca,aero_origen
+BUO_O,BUENOS AIRES,Casanare,aero_origen
+BVA_O,BUENAVISTA,La Guajira,aero_origen
+CAA_O,CAÑO GANDUL,Casanare,aero_origen
+CAC_O,CAMPO CAPOTE,Santander,aero_origen
+CAH_O,EL VISO INCORA,Huila,aero_origen
+CAL_O,CALIMA,Cesar,aero_origen
+CAM_O,CABO MARZO,Chocó,aero_origen
+CAN_O,CANARIAS,Casanare,aero_origen
+CAO_O,"CENTRO ADMINISTRATIVO ""MARANDUA""",Vichada,aero_origen
+CAP_O,CAMPO ALEGRE,Casanare,aero_origen
+CAQ_O,JUAN H.WHITE,Antioquia,aero_origen
+CAR_O,CARIMAGUA,Meta,aero_origen
+CAS_O,CASA COIMA,Antioquia,aero_origen
+CAT_O,CALICANTO,Tolima,aero_origen
+CAV_O,CUMACHAGUA,Vichada,aero_origen
+CBR_O,EL CARMEN DE BOLIVAR,Bolívar,aero_origen
+CBY_O,LA ARABIA,Meta,aero_origen
+CCH_O,EL PACIFICO,Caquetá,aero_origen
+CDA_O,LA ESMERALDA - CA,Valle del Cauca,aero_origen
+CDY_O,CIUDAD YARI,Caquetá,aero_origen
+CEB_O,EL CEBRUNO,Córdoba,aero_origen
+CFB_O,CALIFORNIA,Bolívar,aero_origen
+CGA_O,LA CEIBA,Magdalena,aero_origen
+CGW_O,SANTA ANA,Valle del Cauca,aero_origen
+CHO_O,CHICAMOCHA,Meta,aero_origen
+CHP_O,LA CHAPA,Casanare,aero_origen
+CIM_O,GUSTAVO ROJAS PINILLA,Santander,aero_origen
+CLM_O,CALAMAR GUAVIARE,Guaviare,aero_origen
+CLO_O,ALFONSO BONILLA ARAGON,Valle del Cauca,aero_origen
+CMA_O,CANAIMA,Meta,aero_origen
+CMP_O,CAMPOALEGRE,Huila,aero_origen
+CMR_O,LA MARIA,Meta,aero_origen
+COA_O,COFA -PALMIRA,Valle del Cauca,aero_origen
+COG_O,CONDOTO MANDINGA,Chocó,aero_origen
+CPB_O,CAPURGANA,Chocó,aero_origen
+CPC_O,CUPICA,Chocó,aero_origen
+CPL_O,NAVAS PARDO,Tolima,aero_origen
+CRA_O,CINERA,Norte de Santander,aero_origen
+CRL_O,SANTA BARBARA,Meta,aero_origen
+CRM_O,CURUMANI,Cesar,aero_origen
+CRN_O,CORRAL NUEVO,Magdalena,aero_origen
+CRR_O,CERRITOS,Tolima,aero_origen
+CRU_O,CARURU,Vaupés,aero_origen
+CRY_O,EL VERGEL,Meta,aero_origen
+CTG_O,RAFAEL NUÑEZ,Bolívar,aero_origen
+CUC_O,CAMILO DAZA,Norte de Santander,aero_origen
+CUM_O,EL VISO,Huila,aero_origen
+CVN_O,COVEÑAS,Sucre,aero_origen
+CZI_O,LA DILIA,Cesar,aero_origen
+CZU_O,LAS BRUJAS,Sucre,aero_origen
+EBG_O,EL TOMIN,Antioquia,aero_origen
+ECC_O,EL CARMEN DE CHUCURI,Santander,aero_origen
+ECO_O,ECOPETROL,Santander,aero_origen
+ECR_O,EL CHORRO,Cesar,aero_origen
+EEB_O,EL ESPINO,Boyacá,aero_origen
+EJA_O,YARIGUIES,Santander,aero_origen
+EJU_O,EL JUNCAL,Huila,aero_origen
+ELA_O,EL CHARCO,Nariño,aero_origen
+ELB_O,LAS FLORES,Magdalena,aero_origen
+ELC_O,EL CAIRO,Meta,aero_origen
+ELH_O,EL LIMONAR,Huila,aero_origen
+ELM_O,EL MARNE,Santander,aero_origen
+ELO_O,EL RODEO,Casanare,aero_origen
+ELS_O,COMUNEROS,Santander,aero_origen
+EOH_O,OLAYA HERRERA,Antioquia,aero_origen
+EPR_O,EL PARAISO,Tolima,aero_origen
+EPY_O,CAYTA,Cesar,aero_origen
+ESP_O,ASTA,Tolima,aero_origen
+ETO_O,EL TORNILLO,Santander,aero_origen
+EVC_O,EL VIGIA,Casanare,aero_origen
+EYP_O,EL ALCARAVAN,Casanare,aero_origen
+FCA_O,FASCA,Casanare,aero_origen
+FDA_O,FUNDACION,Magdalena,aero_origen
+FLA_O,GUSTAVO ARTUNDUAGA PAREDES,Caquetá,aero_origen
+FOO_O,LA LUNA,Meta,aero_origen
+FRO_O,FRONTINO EL PLATEADO,Antioquia,aero_origen
+FUL_O,SAN LUIS,Meta,aero_origen
+FUO_O,MAJAGUAL,Meta,aero_origen
+GAN_O,EL PROGRESO,Meta,aero_origen
+GCA_O,GUACAMAYAS,Caquetá,aero_origen
+GER_O,GERMANIA,Cesar,aero_origen
+GIR_O,SANTIAGO VILA,Tolima,aero_origen
+GLJ_O,LA JAGUA,Huila,aero_origen
+GPI_O,JUAN CASIANO,Cauca,aero_origen
+GRM_O,GUERIMA,Vichada,aero_origen
+GRN_O,MALVINAS,Meta,aero_origen
+GUE_O,LA ESTRELLA,Valle del Cauca,aero_origen
+GUR_O,LA BASE FUMIVALLE,Valle del Cauca,aero_origen
+GUS_O,GUSTAVO ROJAS PINILLA,Boyacá,aero_origen
+GYM_O,FLAMINIO S. CAMACHO,Cundinamarca,aero_origen
+HAC_O,EL TRIUNFO,Antioquia,aero_origen
+HCO_O,EL CAIRO,Casanare,aero_origen
+HCZ_O,HATO LA AURORA,Casanare,aero_origen
+HLE_O,HATO LA ESPERANZA,Meta,aero_origen
+HTC_O,EL DANUBIO,Casanare,aero_origen
+HTZ_O,HATO COROZAL,Casanare,aero_origen
+IBE_O,PERALES,Tolima,aero_origen
+IDA_O,CESAR GAVIRIA TRUJILLO,Guainía,aero_origen
+IGO_O,JAIME ORTIZ BETANCUR,Antioquia,aero_origen
+IPI_O,SAN LUIS,Nariño,aero_origen
+IRH_O,IRHO,Cesar,aero_origen
+ISP_O,ISA,Valle del Cauca,aero_origen
+ITG_O,LA PROVIDENCIA,Antioquia,aero_origen
+JUR_O,JURADO,Chocó,aero_origen
+LAB_O,LA  BARQUEREÑA,Casanare,aero_origen
+LAC_O,LA CABAÑA,Meta,aero_origen
+LAH_O,LA CAMPECHANA,Casanare,aero_origen
+LAL_O,CRAVO SUR (antes la pista),Casanare,aero_origen
+LAM_O,LA COLINA,Meta,aero_origen
+LAO_O,LOS ALMENDROS,Antioquia,aero_origen
+LAP_O,LA CARPETA,Casanare,aero_origen
+LAR_O,LA ARROBLEDA,Cauca,aero_origen
+LAU_O,LAS JUANAS,Meta,aero_origen
+LAV_O,LA VICTORIA,Cesar,aero_origen
+LCH_O,VIRGILIO BARCO VARGAS,Amazonas,aero_origen
+LCI_O,LA CACICA,Cesar,aero_origen
+LCM_O,LA CANDELARIA,Meta,aero_origen
+LCT_O,LETICIA,Tolima,aero_origen
+LEM_O,LA ESMERALDA,Meta,aero_origen
+LET_O,ALFREDO VASQUEZ COBO,Amazonas,aero_origen
+LEV_O,LA GAVIOTA,Vichada,aero_origen
+LFL_O,LAS FLORES,Cesar,aero_origen
+LGA_O,LAS GARZAS,Tolima,aero_origen
+LGL_O,BELLA CRUZ -SAN JUAN,Cesar,aero_origen
+LGM_O,LA GAVIOTA MA,Magdalena,aero_origen
+LGP_O,LAGUNA PAVON,Guaviare,aero_origen
+LGT_O,LAS GAVIOTAS,Meta,aero_origen
+LHC_O,LOS HALCONES,Meta,aero_origen
+LJB_O,EL BORREGO,Cesar,aero_origen
+LJC_O,LA JAGUA DE IBIRICO,Cesar,aero_origen
+LJD_O,CERRO DE PIEDRA,Cesar,aero_origen
+LJI_O,NUEVA GRANADA,Cesar,aero_origen
+LJV_O,LA JAULA,Vichada,aero_origen
+LLI_O,LAS DELICIAS,Casanare,aero_origen
+LLM_O,LOMA LINDA,Meta,aero_origen
+LLO_O,CALENTURITAS,Casanare,aero_origen
+LMA_O,JORGE ISAACS (LA MINA),La Guajira,aero_origen
+LMC_O,LA MACARENA,Meta,aero_origen
+LML_O,LAS MALVINAS,Meta,aero_origen
+LMN_O,LOS MULATOS,Nariño,aero_origen
+LMR_O,LOS MORROS,Sucre,aero_origen
+LOC_O,LOPEZ DE MICAI,Cauca,aero_origen
+LOM_O,LOS MILAGROS,Casanare,aero_origen
+LPD_O,LA PEDRERA,Amazonas,aero_origen
+LPG_O,EL GAVILAN,Vichada,aero_origen
+LPL_O,LOS PLANES,Antioquia,aero_origen
+LPR_O,EL CIMARRON,Vichada,aero_origen
+LPS_O,LA PONDEROSA,Santander,aero_origen
+LPV_O,RANCHO ALEGRE,Vichada,aero_origen
+LQM_O,CAUCAYA,Putumayo,aero_origen
+LRA_O,SAN JOSE,Tolima,aero_origen
+LTA_O,LAS TAPIAS,Cesar,aero_origen
+LTB_O,LAS GAVIOTAS,Quindío,aero_origen
+LVB_O,LA VEGA,Bolívar,aero_origen
+MAG_O,MANAURE,La Guajira,aero_origen
+MAI_O,CAMPO ESTERO,Casanare,aero_origen
+MAN_O,CASANARE,Casanare,aero_origen
+MAP_O,MAPIRIPAN,Meta,aero_origen
+MBO_O,MONTERREY,Bolívar,aero_origen
+MBQ_O,BOCOA QUERARI,Vaupés,aero_origen
+MCG_O,MORICHAL,Vaupés,aero_origen
+MCH_O,MOCHUELO,Arauca,aero_origen
+MCJ_O,MAICAO,La Guajira,aero_origen
+MCL_O,CAÑO COLORADO,Vaupés,aero_origen
+MCO_O,MACOCOBA,Vichada,aero_origen
+MCP_O,CACHIPORRO,Vaupés,aero_origen
+MDA_O,INGENIO INCAUCA (C.A),Cauca,aero_origen
+MDE_O,JOSE M. CORDOVA,Antioquia,aero_origen
+MDR_O,PIEDRA ÑI,Vaupés,aero_origen
+MED_O,MEDINA,Cundinamarca,aero_origen
+MFR_O,MONFORT,Vaupés,aero_origen
+MFS_O,MIRAFLORES,Guaviare,aero_origen
+MGN_O,BARACOA,Bolívar,aero_origen
+MGO_O,SAN GERARDO,Vaupés,aero_origen
+MGP_O,MAGUI PAYAN,Nariño,aero_origen
+MGU_O,SAN MIGUEL,Vaupés,aero_origen
+MIB_O,BELEN DE INAMBU,Vaupés,aero_origen
+MIC_O,IBACABA,Vaupés,aero_origen
+MII_O,MANI,Casanare,aero_origen
+MIS_O,SANTA ISABEL,Vaupés,aero_origen
+MIT_O,WACARICUARA,Vaupés,aero_origen
+MKA_O,KAMANAOS,Vaupés,aero_origen
+MLG_O,JERONIMO DE AGUAYO,Santander,aero_origen
+MLR_O,TOLEMAIDA,Tolima,aero_origen
+MMP_O,SAN BERNARDO,Bolívar,aero_origen
+MNI_O,YARUMITOS,Casanare,aero_origen
+MNO_O,LA GLORIA,Casanare,aero_origen
+MPI_O,PIRACUARA,Vaupés,aero_origen
+MPU_O,PACU,Vaupés,aero_origen
+MQU_O,JOSE CELESTINO,Tolima,aero_origen
+MRF_O,LAGOS DEL DORADO,Guaviare,aero_origen
+MRI_O,MURINDO,Antioquia,aero_origen
+MSA_O,SAN ANTONIO,Vaupés,aero_origen
+MSI_O,SANTA LUCIA,Vaupés,aero_origen
+MSN_O,SAN PABLO,Vaupés,aero_origen
+MSO_O,SONAÑA,Vaupés,aero_origen
+MSR_O,SANTA RITA,Vaupés,aero_origen
+MTA_O,MUTATA,Antioquia,aero_origen
+MTB_O,EL PINDO,Córdoba,aero_origen
+MTC_O,PAPUNAGUA - PUERTO. SOLANO,Vaupés,aero_origen
+MTI_O,TIQUIE,Vaupés,aero_origen
+MTN_O,BUENOS AIRES,Vaupés,aero_origen
+MTR_O,LOS GARZONES,Córdoba,aero_origen
+MTS_O,TERESITA,Vaupés,aero_origen
+MTT_O,CACHIPORRO,Vaupés,aero_origen
+MTU_O,MATUPA,Meta,aero_origen
+MUR_O,TAPURUCUARA,Vaupés,aero_origen
+MUT_O,ATAHUALPA,Antioquia,aero_origen
+MVA_O,VILLA GLADYS,Vaupés,aero_origen
+MVI_O,VILLA FATIMA,Vaupés,aero_origen
+MVN_O,VILLA NUEVA,Vaupés,aero_origen
+MVP_O,FABIO A. LEON BENTLEY,Vaupés,aero_origen
+MVU_O,LOS ANGELES,Vaupés,aero_origen
+MWA_O,WAINAMBI,Vaupés,aero_origen
+MWY_O,WASAY,Vaupés,aero_origen
+MYA_O,YAPU,Vaupés,aero_origen
+MYY_O,YAVARATE,Vaupés,aero_origen
+MZL_O,LA NUBIA,Caldas,aero_origen
+NAR_O,PUERTO NARE,Antioquia,aero_origen
+NAT_O,SAN GERMAN,Tolima,aero_origen
+NCI_O,NECOCLI,Antioquia,aero_origen
+NFA_O,NUEVA FORTUNA,Antioquia,aero_origen
+NQU_O,REYES MURILLO,Chocó,aero_origen
+NUC_O,LA FLORA,Casanare,aero_origen
+NUN_O,EL DESECHO,Casanare,aero_origen
+NVA_O,BENITO SALAS,Huila,aero_origen
+OCE_O,EL VIEJO CARMEN,Casanare,aero_origen
+OCU_O,BUENAVISTA,Casanare,aero_origen
+OCV_O,AGUAS CLARAS,Norte de Santander,aero_origen
+OOR_O,SAN PABLO,Casanare,aero_origen
+ORA_O,GUARILAQUE,Casanare,aero_origen
+ORC_O,OROCUE,Casanare,aero_origen
+ORE_O,EL CAIMAN,Casanare,aero_origen
+ORH_O,ORIHUECA,Magdalena,aero_origen
+ORI_O,ORITO,Putumayo,aero_origen
+ORJ_O,LA CULEBRA,Casanare,aero_origen
+ORO_O,GUANAPALO,Casanare,aero_origen
+ORS_O,SARDINAS,Casanare,aero_origen
+ORU_O,EL MEDANO,Casanare,aero_origen
+ORX_O,LA CANDELARIA,Casanare,aero_origen
+OTU_O,REMEDIOS OTU,Antioquia,aero_origen
+PAL_O,PALACIO MUNICIPAL,Antioquia,aero_origen
+PBE_O,MORELA,Antioquia,aero_origen
+PBN_O,NICOLAS E.SOTO,Boyacá,aero_origen
+PBO_O,PUERTO BOLIVAR,La Guajira,aero_origen
+PBR_O,LA PONDEROSA,Cundinamarca,aero_origen
+PCA_O,PACOA,Vaupés,aero_origen
+PCE_O,CUMARIBO,Vichada,aero_origen
+PCH_O,ALPES -PACHAQ.,Meta,aero_origen
+PCJ_O,PUERTO ALVIRA -CAÑO JABON,Meta,aero_origen
+PCO_O,PARACO,Bolívar,aero_origen
+PCR_O,GERMAN OLANO,Vichada,aero_origen
+PDE_O,LA VENGANZA,Casanare,aero_origen
+PDR_O,LA COLONIA,Casanare,aero_origen
+PEI_O,MATECAÑA,Risaralda,aero_origen
+PFO_O,PUERTO PERALES,Antioquia,aero_origen
+PGA_O,PRAGA,Valle del Cauca,aero_origen
+PGM_O,PUERTO GAITAN,Meta,aero_origen
+PGN_O,SABANETA,Meta,aero_origen
+PGP_O,LA PLATA PUERTO TRUJILLO,Meta,aero_origen
+PGT_O,MORELIA,Meta,aero_origen
+PID_O,PUERTO INIRIDA,Guainía,aero_origen
+PII_O,SAN FELIPE,Guainía,aero_origen
+PIM_O,LA PRIMAVERA,Vichada,aero_origen
+PIP_O,PAIPA JUAN JOSE RONDON,Boyacá,aero_origen
+PLA_O,PLANADAS,Tolima,aero_origen
+PLD_O,SAN ISIDRO,Meta,aero_origen
+PLL_O,PUERTO LLERAS,Meta,aero_origen
+PLN_O,PALONEGRO-NORTE,Cesar,aero_origen
+PLS_O,TOBASIA,Meta,aero_origen
+PLT_O,LAS FLORES,Magdalena,aero_origen
+PMO_O,SAN LUIS,Huila,aero_origen
+PNQ_O,PINOQUIA,Vichada,aero_origen
+PPN_O,GUILLERMO LEON VALENCIA,Cauca,aero_origen
+PPT_O,POTRERITO,Tolima,aero_origen
+PQE_O,PALANQUERO -GERMAN OLANO,Cundinamarca,aero_origen
+PRA_O,LA OPIA,Tolima,aero_origen
+PRC_O,PUERTO RICO,Caquetá,aero_origen
+PRE_O,SAN JOSE DE OCUNE,Vichada,aero_origen
+PRI_O,PRIMERO DE MAYO,Cundinamarca,aero_origen
+PRO_O,PORORO,Cesar,aero_origen
+PRR_O,JIBICI,Vichada,aero_origen
+PSO_O,ANTONIO NARIÑO,Nariño,aero_origen
+PTA_O,PALESTINA,Magdalena,aero_origen
+PTC_O,LA VICTORIA,Vichada,aero_origen
+PTE_O,LA REFORMA,Meta,aero_origen
+PTL_O,CONTADOR,Huila,aero_origen
+PTO_O,PIRIRI,Meta,aero_origen
+PTS_O,LA ESPERANZA,Cundinamarca,aero_origen
+PTW_O,GEMELOS DORADOS,Santander,aero_origen
+PTZ_O,YATAROS DE MELUA,Meta,aero_origen
+PUE_O,PUERTO RICO,Meta,aero_origen
+PUL_O,GAVIOTAS,Meta,aero_origen
+PUU_O,TRES DE MAYO,Putumayo,aero_origen
+PVA_O,EL EMBRUJO,San Andrés islas,aero_origen
+PVO_O,EL ALGODONAL,Córdoba,aero_origen
+PWI_O,PUERTO WILCHES,Santander,aero_origen
+PWT_O,PUERTO WILCHES,Santander,aero_origen
+PZA_O,PAZ DE ARIPORO,Casanare,aero_origen
+PZI_O,VENECIA DE LAS GUAMAS,Casanare,aero_origen
+PZR_O,CHAPARRITO,Casanare,aero_origen
+QPM_O,FURATENA,Boyacá,aero_origen
+QQA_O,VILLANUEVA,Casanare,aero_origen
+RAV_O,CRAVO NORTE,Arauca,aero_origen
+RCH_O,ALMIRANTE PADILLA,La Guajira,aero_origen
+RDN_O,RONDON,Arauca,aero_origen
+RVE_O,COLONIZADORES,Arauca,aero_origen
+SAA_O,SANTA ANA,Casanare,aero_origen
+SAS_O,SAN CARLOS,Casanare,aero_origen
+SBD_O,LA MAGDALENA,Santander,aero_origen
+SBT_O,LAS CRUCES,Santander,aero_origen
+SCG_O,EL PRADO,Meta,aero_origen
+SCS_O,SAN CARLOS DEL PLANAS,Vichada,aero_origen
+SCY_O,SAN JERONIMO,Tolima,aero_origen
+SDG_O,LA MANSION,Meta,aero_origen
+SFA_O,SANTAFE DE ANTIOQUIA,Antioquia,aero_origen
+SGG_O,LA FLORIDA,Meta,aero_origen
+SGL_O,SAN GIL - LOS POZOS,Santander,aero_origen
+SGU_O,YAGUARITO,Meta,aero_origen
+SHL_O,SANTA HELENA DE UPIA,Casanare,aero_origen
+SIR_O,SIRENAS,Casanare,aero_origen
+SIS_O,SANTA ISABEL,Vaupés,aero_origen
+SJE_O,JORGE E. GONZALEZ T.,Guaviare,aero_origen
+SJR_O,SAN JUAN DE URABA,Antioquia,aero_origen
+SKGB_O,"MARCO FIDEL SUAREZ  ""AFB""",Valle del Cauca,aero_origen
+SKTI_O,"TOLEMAIDA ""AFB""",Tolima,aero_origen
+SLM_O,SAN LUIS,Meta,aero_origen
+SMA_O,AGUAS BLANCAS,Cesar,aero_origen
+SMR_O,SIMON BOLIVAR,Magdalena,aero_origen
+SMT_O,LA CAPRICHOSA,Meta,aero_origen
+SNG_O,SANTIAGO No.1,Casanare,aero_origen
+SNL_O,HIPILANDIA,Cesar,aero_origen
+SNM_O,LA DIVA,Magdalena,aero_origen
+SNP_O,SAN PABLO,Córdoba,aero_origen
+SNR_O,SAN MARTIN,Meta,aero_origen
+SNU_O,SAN MIGUEL,Meta,aero_origen
+SOR_O,EL RINCON DE MUCURA,Sucre,aero_origen
+SOX_O,ALBERTO LLERAS CAMARGO,Boyacá,aero_origen
+SPD_O,SAN PEDRO DE URABA,Antioquia,aero_origen
+SPE_O,SAN PEDRO CORAL,Sucre,aero_origen
+SRB_O,SANTA ROSA DE SIMITI,Bolívar,aero_origen
+SRO_O,SANTA ROSALIA,Vichada,aero_origen
+SRS_O,EL ALGARROBO,Sucre,aero_origen
+SRV_O,LOS COLONIZADORES,Arauca,aero_origen
+SSC_O,SALA 77,Cesar,aero_origen
+SSL_O,FALCON,Tolima,aero_origen
+STA_O,EL EDEN,Magdalena,aero_origen
+SVI_O,EDUARDO FALLA SOLANO,Caquetá,aero_origen
+SVT_O,SAN VICENTE DE CHUCURI,Santander,aero_origen
+TAP_O,TARAPACA,Amazonas,aero_origen
+TAR_O,TARAIRA,Vaupés,aero_origen
+TBQ_O,TIMBIQUI,Cauca,aero_origen
+TBU_O,TIBU,Norte de Santander,aero_origen
+TCO_O,LA FLORIDA,Nariño,aero_origen
+TDA_O,TRINIDAD,Casanare,aero_origen
+TDI_O,ELF TRINIDAD,Casanare,aero_origen
+TIB_O,TIERRA BLANCA,Valle del Cauca,aero_origen
+TLU_O,TOLU,Sucre,aero_origen
+TME_O,GUSTAVO VARGAS,Arauca,aero_origen
+TNU_O,PROVIDENCIA,Casanare,aero_origen
+TPI_O,TOMACHIPAN,Guaviare,aero_origen
+TQS_O,SOLANO,Caquetá,aero_origen
+TRB_O,GONZALO MEJIA,Antioquia,aero_origen
+TRD_O,PALMARITO 2,Casanare,aero_origen
+TRI_O,LOS TOROS,Casanare,aero_origen
+TRP_O,TARAPACA,Amazonas,aero_origen
+TRR_O,TRES RIOS,Guaviare,aero_origen
+TUN_O,TUNJA,Boyacá,aero_origen
+UIB_O,EL CARAÑO,Chocó,aero_origen
+ULQ_O,FARFAN HERIBERTO GIL MAR,Valle del Cauca,aero_origen
+URA_O,PUERTO ESTRELLA,La Guajira,aero_origen
+URM_O,URIBE,Meta,aero_origen
+URR_O,ALI PIEDRAHITA,Antioquia,aero_origen
+VAL_O,VALENCIA,Córdoba,aero_origen
+VAP_O,CAMPO ALEGRE,Cesar,aero_origen
+VAR_O,VARSOVIA,Caquetá,aero_origen
+VCC_O,EL DIAMANTE,Meta,aero_origen
+VDF_O,VIGIA DEL FUERTE,Antioquia,aero_origen
+VDP_O,MADACI,Cesar,aero_origen
+VEL_O,VELASQUEZ,Boyacá,aero_origen
+VGP_O,CANANGUCHAL,Putumayo,aero_origen
+VIC_O,EL CONVENTO,Meta,aero_origen
+VIH_O,VISTA HERMOSA,Meta,aero_origen
+VIL_O,PALMAS DEL CASANARE,Casanare,aero_origen
+VLA_O,VILLANUEVA,Casanare,aero_origen
+VLL_O,VILLANUEVA,La Guajira,aero_origen
+VLU_O,PALMAR DE ORIENTE,Casanare,aero_origen
+VNL_O,COLEGIAL,Casanare,aero_origen
+VNU_O,SOCEAGRO,Casanare,aero_origen
+VUP_O,ALFONSO LOPEZ PUMAREJO,Cesar,aero_origen
+VVA_O,VILLANUEVA,Antioquia,aero_origen
+VVC_O,VANGUARDIA,Meta,aero_origen
+VVD_O,LAS BRISAS,Meta,aero_origen
+VVN_O,NEIVA YORK - MILENA,Meta,aero_origen
+VVU_O,SANTA ISABEL,Meta,aero_origen
+YAG_O,YAGUARA II,Caquetá,aero_origen
+YOP_O,TROMPILLOS,Casanare,aero_origen
+YPL_O,CIENAGA,Casanare,aero_origen
+YPP_O,GERMAN ALBERTO,Casanare,aero_origen
+YYP_O,LOS CABROS,Casanare,aero_origen
+ZPS_O,GUILLERMO GOMEZ ORTIZ,Santander,aero_origen
+4JC_O_D,JUANCHACO,Valle del Cauca,aero_destino
+7FU_O_D,LA ESCONDIDA,Meta,aero_destino
+7GC_O_D,SAN FELIPE DEL PAUTO,Casanare,aero_destino
+7GD_O_D,VELASQUEZ,Boyacá,aero_destino
+7GF_O_D,LA UNION,Casanare,aero_destino
+7GG_O_D,LA ILUSION,Casanare,aero_destino
+7GH_O_D,LA VENTUROSA,Vichada,aero_destino
+7GL_O_D,LA JAGUA,Cesar,aero_destino
+7GS_O_D,EL ENCANTO,Vichada,aero_destino
+7GV_O_D,REPRESA DE LAS CANARIAS,Casanare,aero_destino
+7GY_O_D,LAS ACACIAS,Cundinamarca,aero_destino
+7GZ_O_D,COROZITO,Casanare,aero_destino
+7HB_O_D,HOTEL SAN DIEGO,Meta,aero_destino
+7HD_O_D,BOSQUES DE LA PRIMAVERA,Vichada,aero_destino
+7HE_O_D,GUACHARACAS (COLOMBAIMA),Cundinamarca,aero_destino
+7HF_O_D,GAVILAN DE LA PASCUA,Vichada,aero_destino
+7HG_O_D,DOROTEA B1,Casanare,aero_destino
+7HJ_O_D,MACOLLA,Casanare,aero_destino
+7HM_O_D,LLANO CAUCHO,Vichada,aero_destino
+7HN_O_D,ARMENIA,Casanare,aero_destino
+7HT_O_D,MANARE,Casanare,aero_destino
+7HV_O_D,LA BENDICION,Vichada,aero_destino
+7HX_O_D,PIVIJAY,Vichada,aero_destino
+7IA_O_D,MURIBA,Casanare,aero_destino
+7ID_O_D,LA MACOYA,Casanare,aero_destino
+7IF_O_D,LOS VENADOS,Vichada,aero_destino
+7IH_O_D,LOS KIOSCOS,Meta,aero_destino
+7IJ_O_D,LA LORENA,Casanare,aero_destino
+7NQ_O_D,EL PARAISO,Vichada,aero_destino
+7NS_O_D,JAGUAR,Meta,aero_destino
+7NT_O_D,OCELOTE,Meta,aero_destino
+9AB_O_D,GETSEMANI,Casanare,aero_destino
+9AC_O_D,MARIA ALEJANDRA,Casanare,aero_destino
+9AI_O_D,CAÑO GARZA,Casanare,aero_destino
+9AJ_O_D,SAN LUIS DE PACA,Vaupés,aero_destino
+9AK_O_D,CANANARI,Vaupés,aero_destino
+9AM_O_D,SAN FERNANDO,Casanare,aero_destino
+9AN_O_D,MARAREY,Casanare,aero_destino
+9AO_O_D,SANTA CLARA,Casanare,aero_destino
+9AR_O_D,SAN PABLO,Vaupés,aero_destino
+9AS_O_D,SIRENAS,Casanare,aero_destino
+9AT_O_D,COROCITO,Meta,aero_destino
+9AZ_O_D,REMACHE SUR,Casanare,aero_destino
+9BB_O_D,SAN MIGUEL,Meta,aero_destino
+9BE_O_D,LAS VEGAS,Casanare,aero_destino
+9BF_O_D,LA FRANCIA,Cesar,aero_destino
+9BH_O_D,GUAFITAS,Casanare,aero_destino
+9BI_O_D,SAN FELIPE,Casanare,aero_destino
+9BO_O_D,VENECIA DE GUANAPALO,Casanare,aero_destino
+9BS_O_D,LA COMARCA,Casanare,aero_destino
+9BW_O_D,LA FAZENDA,Meta,aero_destino
+9BY_O_D,SAN EDUARDO,Casanare,aero_destino
+9BZ_O_D,RIOSUCIO,Chocó,aero_destino
+9CA_O_D,LAS AGUILAS -CA,Valle del Cauca,aero_destino
+9CB_O_D,CAMARUCOS,Casanare,aero_destino
+9CC_O_D,EL TOTUMO,Casanare,aero_destino
+9CD_O_D,VARSOVIA,Casanare,aero_destino
+9CE_O_D,LA HERMOSA,Casanare,aero_destino
+9CF_O_D,SAN ESTEBAN,Casanare,aero_destino
+9CG_O_D,SAN JOSE DEL ARIPORO,Casanare,aero_destino
+9CI_O_D,LA CAIMANA,Casanare,aero_destino
+9CJ_O_D,EMAUS,Casanare,aero_destino
+9CL_O_D,LA VENTUROSA,Casanare,aero_destino
+9CU_O_D,COROCORA,Casanare,aero_destino
+9DE_O_D,LUNA PARK,Vichada,aero_destino
+9DI_O_D,SAN FELIPE,Guainía,aero_destino
+9LI_O_D,SAN SEBASTIAN,Meta,aero_destino
+9LQ_O_D,LA PONDEROSA,Meta,aero_destino
+9LW_O_D,EL PALMAR,Casanare,aero_destino
+9M1_O_D,TRES ESQUINAS AB,Caquetá,aero_destino
+9M2_O_D,LARANDIA,Caquetá,aero_destino
+9MQ_O_D,EL RASTRO,Vichada,aero_destino
+9MS_O_D,BETANIA,Casanare,aero_destino
+9NG_O_D,REMOLINOS,Meta,aero_destino
+A01_O_D,CAMPO ALEGRE,Guainía,aero_destino
+A02_O_D,CAÑO COLORADO,Guainía,aero_destino
+A03_O_D,FORTUL,Arauca,aero_destino
+A04_O_D,SANTA ROSA DEL SUR,Bolívar,aero_destino
+ABT_O_D,AGUA BLANCA,Tolima,aero_destino
+ACD_O_D,ALCIDES FERNANDEZ,Chocó,aero_destino
+ACI_O_D,EL MONASTERIO,Meta,aero_destino
+ACR_O_D,ARARACUARA,Caquetá,aero_destino
+ADZ_O_D,GUSTAVO ROJAS PINILLA,San Andrés islas,aero_destino
+AFC_O_D,FABAL-COALCESAR,Cesar,aero_destino
+AFI_O_D,EL RIO,Antioquia,aero_destino
+AGB_O_D,AGUA BLANCA,Tolima,aero_destino
+AGH_O_D,HACARITAMA,Cesar,aero_destino
+AGJ_O_D,JAMAICA,Casanare,aero_destino
+AGT_O_D,AGUA BLANCA,Tolima,aero_destino
+AGU_O_D,MARIA ANGELICA,Casanare,aero_destino
+AGY_O_D,BASE PRINCIPAL CELTA,Cesar,aero_destino
+ALR_O_D,ALFEMAR,Chocó,aero_destino
+ALT_O_D,ALTAMIRA,Casanare,aero_destino
+APO_O_D,ANTONIO ROLDAN BETANCOURT,Antioquia,aero_destino
+APY_O_D,APIAY - FAC,Meta,aero_destino
+ARA_O_D,LA RUBIERA,Arauca,aero_destino
+ARC_O_D,PERENCO,Casanare,aero_destino
+ARG_O_D,ARAGUANEY,Casanare,aero_destino
+ARQ_O_D,EL TRONCAL,Arauca,aero_destino
+AUC_O_D,SANTIAGO PEREZ QUIROZ,Arauca,aero_destino
+AUR_O_D,EL CORAJE,Magdalena,aero_destino
+AXM_O_D,EL EDEN,Quindío,aero_destino
+AYC_O_D,LA GLORIA,Cesar,aero_destino
+BAC_O_D,BANCO DE LA REPUBLICA,Antioquia,aero_destino
+BAQ_O_D,ERNESTO CORTISSOZ,Atlántico,aero_destino
+BAR_O_D,GUAICARAMO,Meta,aero_destino
+BBA_O_D,PIZARRO,Chocó,aero_destino
+BCA_O_D,CERREJON CENTRAL,La Guajira,aero_destino
+BCO_O_D,JULIA CAROLINA,Cesar,aero_destino
+BEC_O_D,BECERRIL,Cesar,aero_destino
+BEE_O_D,BENEFICENCIA DEL TOLIMA,Tolima,aero_destino
+BGA_O_D,PALONEGRO,Santander,aero_destino
+BGN_O_D,EL MILAGRO,Valle del Cauca,aero_destino
+BIZ_O_D,BIZERTA,Casanare,aero_destino
+BJA_O_D,BERLIN,Huila,aero_destino
+BJE_O_D,LA CASCAJERA,Santander,aero_destino
+BMG_O_D,BARRANCO MINAS,Guainía,aero_destino
+BNO_O_D,BUENOS AIRES,Santander,aero_destino
+BOC_O_D,SAN MARTIN,Cesar,aero_destino
+BOG_O_D,EL DORADO,"Bogotá, D.C.",aero_destino
+BQL_O_D,BARRANQUILLITA,Guaviare,aero_destino
+BSA_O_D,LA ESPERANZA,Santander,aero_destino
+BSC_O_D,JOSE CELESTINO MUTIS,Chocó,aero_destino
+BUN_O_D,BUENAVENTURA-GERARDO TOBAR LOPEZ,Valle del Cauca,aero_destino
+BUO_O_D,BUENOS AIRES,Casanare,aero_destino
+BVA_O_D,BUENAVISTA,La Guajira,aero_destino
+CAA_O_D,CAÑO GANDUL,Casanare,aero_destino
+CAC_O_D,CAMPO CAPOTE,Santander,aero_destino
+CAH_O_D,EL VISO INCORA,Huila,aero_destino
+CAL_O_D,CALIMA,Cesar,aero_destino
+CAM_O_D,CABO MARZO,Chocó,aero_destino
+CAN_O_D,CANARIAS,Casanare,aero_destino
+CAO_O_D,"CENTRO ADMINISTRATIVO ""MARANDUA""",Vichada,aero_destino
+CAP_O_D,CAMPO ALEGRE,Casanare,aero_destino
+CAQ_O_D,JUAN H.WHITE,Antioquia,aero_destino
+CAR_O_D,CARIMAGUA,Meta,aero_destino
+CAS_O_D,CASA COIMA,Antioquia,aero_destino
+CAT_O_D,CALICANTO,Tolima,aero_destino
+CAV_O_D,CUMACHAGUA,Vichada,aero_destino
+CBR_O_D,EL CARMEN DE BOLIVAR,Bolívar,aero_destino
+CBY_O_D,LA ARABIA,Meta,aero_destino
+CCH_O_D,EL PACIFICO,Caquetá,aero_destino
+CDA_O_D,LA ESMERALDA - CA,Valle del Cauca,aero_destino
+CDY_O_D,CIUDAD YARI,Caquetá,aero_destino
+CEB_O_D,EL CEBRUNO,Córdoba,aero_destino
+CFB_O_D,CALIFORNIA,Bolívar,aero_destino
+CGA_O_D,LA CEIBA,Magdalena,aero_destino
+CGW_O_D,SANTA ANA,Valle del Cauca,aero_destino
+CHO_O_D,CHICAMOCHA,Meta,aero_destino
+CHP_O_D,LA CHAPA,Casanare,aero_destino
+CIM_O_D,GUSTAVO ROJAS PINILLA,Santander,aero_destino
+CLM_O_D,CALAMAR GUAVIARE,Guaviare,aero_destino
+CLO_O_D,ALFONSO BONILLA ARAGON,Valle del Cauca,aero_destino
+CMA_O_D,CANAIMA,Meta,aero_destino
+CMP_O_D,CAMPOALEGRE,Huila,aero_destino
+CMR_O_D,LA MARIA,Meta,aero_destino
+COA_O_D,COFA -PALMIRA,Valle del Cauca,aero_destino
+COG_O_D,CONDOTO MANDINGA,Chocó,aero_destino
+CPB_O_D,CAPURGANA,Chocó,aero_destino
+CPC_O_D,CUPICA,Chocó,aero_destino
+CPL_O_D,NAVAS PARDO,Tolima,aero_destino
+CRA_O_D,CINERA,Norte de Santander,aero_destino
+CRL_O_D,SANTA BARBARA,Meta,aero_destino
+CRM_O_D,CURUMANI,Cesar,aero_destino
+CRN_O_D,CORRAL NUEVO,Magdalena,aero_destino
+CRR_O_D,CERRITOS,Tolima,aero_destino
+CRU_O_D,CARURU,Vaupés,aero_destino
+CRY_O_D,EL VERGEL,Meta,aero_destino
+CTG_O_D,RAFAEL NUÑEZ,Bolívar,aero_destino
+CUC_O_D,CAMILO DAZA,Norte de Santander,aero_destino
+CUM_O_D,EL VISO,Huila,aero_destino
+CVN_O_D,COVEÑAS,Sucre,aero_destino
+CZI_O_D,LA DILIA,Cesar,aero_destino
+CZU_O_D,LAS BRUJAS,Sucre,aero_destino
+EBG_O_D,EL TOMIN,Antioquia,aero_destino
+ECC_O_D,EL CARMEN DE CHUCURI,Santander,aero_destino
+ECO_O_D,ECOPETROL,Santander,aero_destino
+ECR_O_D,EL CHORRO,Cesar,aero_destino
+EEB_O_D,EL ESPINO,Boyacá,aero_destino
+EJA_O_D,YARIGUIES,Santander,aero_destino
+EJU_O_D,EL JUNCAL,Huila,aero_destino
+ELA_O_D,EL CHARCO,Nariño,aero_destino
+ELB_O_D,LAS FLORES,Magdalena,aero_destino
+ELC_O_D,EL CAIRO,Meta,aero_destino
+ELH_O_D,EL LIMONAR,Huila,aero_destino
+ELM_O_D,EL MARNE,Santander,aero_destino
+ELO_O_D,EL RODEO,Casanare,aero_destino
+ELS_O_D,COMUNEROS,Santander,aero_destino
+EOH_O_D,OLAYA HERRERA,Antioquia,aero_destino
+EPR_O_D,EL PARAISO,Tolima,aero_destino
+EPY_O_D,CAYTA,Cesar,aero_destino
+ESP_O_D,ASTA,Tolima,aero_destino
+ETO_O_D,EL TORNILLO,Santander,aero_destino
+EVC_O_D,EL VIGIA,Casanare,aero_destino
+EYP_O_D,EL ALCARAVAN,Casanare,aero_destino
+FCA_O_D,FASCA,Casanare,aero_destino
+FDA_O_D,FUNDACION,Magdalena,aero_destino
+FLA_O_D,GUSTAVO ARTUNDUAGA PAREDES,Caquetá,aero_destino
+FOO_O_D,LA LUNA,Meta,aero_destino
+FRO_O_D,FRONTINO EL PLATEADO,Antioquia,aero_destino
+FUL_O_D,SAN LUIS,Meta,aero_destino
+FUO_O_D,MAJAGUAL,Meta,aero_destino
+GAN_O_D,EL PROGRESO,Meta,aero_destino
+GCA_O_D,GUACAMAYAS,Caquetá,aero_destino
+GER_O_D,GERMANIA,Cesar,aero_destino
+GIR_O_D,SANTIAGO VILA,Tolima,aero_destino
+GLJ_O_D,LA JAGUA,Huila,aero_destino
+GPI_O_D,JUAN CASIANO,Cauca,aero_destino
+GRM_O_D,GUERIMA,Vichada,aero_destino
+GRN_O_D,MALVINAS,Meta,aero_destino
+GUE_O_D,LA ESTRELLA,Valle del Cauca,aero_destino
+GUR_O_D,LA BASE FUMIVALLE,Valle del Cauca,aero_destino
+GUS_O_D,GUSTAVO ROJAS PINILLA,Boyacá,aero_destino
+GYM_O_D,FLAMINIO S. CAMACHO,Cundinamarca,aero_destino
+HAC_O_D,EL TRIUNFO,Antioquia,aero_destino
+HCO_O_D,EL CAIRO,Casanare,aero_destino
+HCZ_O_D,HATO LA AURORA,Casanare,aero_destino
+HLE_O_D,HATO LA ESPERANZA,Meta,aero_destino
+HTC_O_D,EL DANUBIO,Casanare,aero_destino
+HTZ_O_D,HATO COROZAL,Casanare,aero_destino
+IBE_O_D,PERALES,Tolima,aero_destino
+IDA_O_D,CESAR GAVIRIA TRUJILLO,Guainía,aero_destino
+IGO_O_D,JAIME ORTIZ BETANCUR,Antioquia,aero_destino
+IPI_O_D,SAN LUIS,Nariño,aero_destino
+IRH_O_D,IRHO,Cesar,aero_destino
+ISP_O_D,ISA,Valle del Cauca,aero_destino
+ITG_O_D,LA PROVIDENCIA,Antioquia,aero_destino
+JUR_O_D,JURADO,Chocó,aero_destino
+LAB_O_D,LA  BARQUEREÑA,Casanare,aero_destino
+LAC_O_D,LA CABAÑA,Meta,aero_destino
+LAH_O_D,LA CAMPECHANA,Casanare,aero_destino
+LAL_O_D,CRAVO SUR (antes la pista),Casanare,aero_destino
+LAM_O_D,LA COLINA,Meta,aero_destino
+LAO_O_D,LOS ALMENDROS,Antioquia,aero_destino
+LAP_O_D,LA CARPETA,Casanare,aero_destino
+LAR_O_D,LA ARROBLEDA,Cauca,aero_destino
+LAU_O_D,LAS JUANAS,Meta,aero_destino
+LAV_O_D,LA VICTORIA,Cesar,aero_destino
+LCH_O_D,VIRGILIO BARCO VARGAS,Amazonas,aero_destino
+LCI_O_D,LA CACICA,Cesar,aero_destino
+LCM_O_D,LA CANDELARIA,Meta,aero_destino
+LCT_O_D,LETICIA,Tolima,aero_destino
+LEM_O_D,LA ESMERALDA,Meta,aero_destino
+LET_O_D,ALFREDO VASQUEZ COBO,Amazonas,aero_destino
+LEV_O_D,LA GAVIOTA,Vichada,aero_destino
+LFL_O_D,LAS FLORES,Cesar,aero_destino
+LGA_O_D,LAS GARZAS,Tolima,aero_destino
+LGL_O_D,BELLA CRUZ -SAN JUAN,Cesar,aero_destino
+LGM_O_D,LA GAVIOTA MA,Magdalena,aero_destino
+LGP_O_D,LAGUNA PAVON,Guaviare,aero_destino
+LGT_O_D,LAS GAVIOTAS,Meta,aero_destino
+LHC_O_D,LOS HALCONES,Meta,aero_destino
+LJB_O_D,EL BORREGO,Cesar,aero_destino
+LJC_O_D,LA JAGUA DE IBIRICO,Cesar,aero_destino
+LJD_O_D,CERRO DE PIEDRA,Cesar,aero_destino
+LJI_O_D,NUEVA GRANADA,Cesar,aero_destino
+LJV_O_D,LA JAULA,Vichada,aero_destino
+LLI_O_D,LAS DELICIAS,Casanare,aero_destino
+LLM_O_D,LOMA LINDA,Meta,aero_destino
+LLO_O_D,CALENTURITAS,Casanare,aero_destino
+LMA_O_D,JORGE ISAACS (LA MINA),La Guajira,aero_destino
+LMC_O_D,LA MACARENA,Meta,aero_destino
+LML_O_D,LAS MALVINAS,Meta,aero_destino
+LMN_O_D,LOS MULATOS,Nariño,aero_destino
+LMR_O_D,LOS MORROS,Sucre,aero_destino
+LOC_O_D,LOPEZ DE MICAI,Cauca,aero_destino
+LOM_O_D,LOS MILAGROS,Casanare,aero_destino
+LPD_O_D,LA PEDRERA,Amazonas,aero_destino
+LPG_O_D,EL GAVILAN,Vichada,aero_destino
+LPL_O_D,LOS PLANES,Antioquia,aero_destino
+LPR_O_D,EL CIMARRON,Vichada,aero_destino
+LPS_O_D,LA PONDEROSA,Santander,aero_destino
+LPV_O_D,RANCHO ALEGRE,Vichada,aero_destino
+LQM_O_D,CAUCAYA,Putumayo,aero_destino
+LRA_O_D,SAN JOSE,Tolima,aero_destino
+LTA_O_D,LAS TAPIAS,Cesar,aero_destino
+LTB_O_D,LAS GAVIOTAS,Quindío,aero_destino
+LVB_O_D,LA VEGA,Bolívar,aero_destino
+MAG_O_D,MANAURE,La Guajira,aero_destino
+MAI_O_D,CAMPO ESTERO,Casanare,aero_destino
+MAN_O_D,CASANARE,Casanare,aero_destino
+MAP_O_D,MAPIRIPAN,Meta,aero_destino
+MBO_O_D,MONTERREY,Bolívar,aero_destino
+MBQ_O_D,BOCOA QUERARI,Vaupés,aero_destino
+MCG_O_D,MORICHAL,Vaupés,aero_destino
+MCH_O_D,MOCHUELO,Arauca,aero_destino
+MCJ_O_D,MAICAO,La Guajira,aero_destino
+MCL_O_D,CAÑO COLORADO,Vaupés,aero_destino
+MCO_O_D,MACOCOBA,Vichada,aero_destino
+MCP_O_D,CACHIPORRO,Vaupés,aero_destino
+MDA_O_D,INGENIO INCAUCA (C.A),Cauca,aero_destino
+MDE_O_D,JOSE M. CORDOVA,Antioquia,aero_destino
+MDR_O_D,PIEDRA ÑI,Vaupés,aero_destino
+MED_O_D,MEDINA,Cundinamarca,aero_destino
+MFR_O_D,MONFORT,Vaupés,aero_destino
+MFS_O_D,MIRAFLORES,Guaviare,aero_destino
+MGN_O_D,BARACOA,Bolívar,aero_destino
+MGO_O_D,SAN GERARDO,Vaupés,aero_destino
+MGP_O_D,MAGUI PAYAN,Nariño,aero_destino
+MGU_O_D,SAN MIGUEL,Vaupés,aero_destino
+MIB_O_D,BELEN DE INAMBU,Vaupés,aero_destino
+MIC_O_D,IBACABA,Vaupés,aero_destino
+MII_O_D,MANI,Casanare,aero_destino
+MIS_O_D,SANTA ISABEL,Vaupés,aero_destino
+MIT_O_D,WACARICUARA,Vaupés,aero_destino
+MKA_O_D,KAMANAOS,Vaupés,aero_destino
+MLG_O_D,JERONIMO DE AGUAYO,Santander,aero_destino
+MLR_O_D,TOLEMAIDA,Tolima,aero_destino
+MMP_O_D,SAN BERNARDO,Bolívar,aero_destino
+MNI_O_D,YARUMITOS,Casanare,aero_destino
+MNO_O_D,LA GLORIA,Casanare,aero_destino
+MPI_O_D,PIRACUARA,Vaupés,aero_destino
+MPU_O_D,PACU,Vaupés,aero_destino
+MQU_O_D,JOSE CELESTINO,Tolima,aero_destino
+MRF_O_D,LAGOS DEL DORADO,Guaviare,aero_destino
+MRI_O_D,MURINDO,Antioquia,aero_destino
+MSA_O_D,SAN ANTONIO,Vaupés,aero_destino
+MSI_O_D,SANTA LUCIA,Vaupés,aero_destino
+MSN_O_D,SAN PABLO,Vaupés,aero_destino
+MSO_O_D,SONAÑA,Vaupés,aero_destino
+MSR_O_D,SANTA RITA,Vaupés,aero_destino
+MTA_O_D,MUTATA,Antioquia,aero_destino
+MTB_O_D,EL PINDO,Córdoba,aero_destino
+MTC_O_D,PAPUNAGUA - PUERTO. SOLANO,Vaupés,aero_destino
+MTI_O_D,TIQUIE,Vaupés,aero_destino
+MTN_O_D,BUENOS AIRES,Vaupés,aero_destino
+MTR_O_D,LOS GARZONES,Córdoba,aero_destino
+MTS_O_D,TERESITA,Vaupés,aero_destino
+MTT_O_D,CACHIPORRO,Vaupés,aero_destino
+MTU_O_D,MATUPA,Meta,aero_destino
+MUR_O_D,TAPURUCUARA,Vaupés,aero_destino
+MUT_O_D,ATAHUALPA,Antioquia,aero_destino
+MVA_O_D,VILLA GLADYS,Vaupés,aero_destino
+MVI_O_D,VILLA FATIMA,Vaupés,aero_destino
+MVN_O_D,VILLA NUEVA,Vaupés,aero_destino
+MVP_O_D,FABIO A. LEON BENTLEY,Vaupés,aero_destino
+MVU_O_D,LOS ANGELES,Vaupés,aero_destino
+MWA_O_D,WAINAMBI,Vaupés,aero_destino
+MWY_O_D,WASAY,Vaupés,aero_destino
+MYA_O_D,YAPU,Vaupés,aero_destino
+MYY_O_D,YAVARATE,Vaupés,aero_destino
+MZL_O_D,LA NUBIA,Caldas,aero_destino
+NAR_O_D,PUERTO NARE,Antioquia,aero_destino
+NAT_O_D,SAN GERMAN,Tolima,aero_destino
+NCI_O_D,NECOCLI,Antioquia,aero_destino
+NFA_O_D,NUEVA FORTUNA,Antioquia,aero_destino
+NQU_O_D,REYES MURILLO,Chocó,aero_destino
+NUC_O_D,LA FLORA,Casanare,aero_destino
+NUN_O_D,EL DESECHO,Casanare,aero_destino
+NVA_O_D,BENITO SALAS,Huila,aero_destino
+OCE_O_D,EL VIEJO CARMEN,Casanare,aero_destino
+OCU_O_D,BUENAVISTA,Casanare,aero_destino
+OCV_O_D,AGUAS CLARAS,Norte de Santander,aero_destino
+OOR_O_D,SAN PABLO,Casanare,aero_destino
+ORA_O_D,GUARILAQUE,Casanare,aero_destino
+ORC_O_D,OROCUE,Casanare,aero_destino
+ORE_O_D,EL CAIMAN,Casanare,aero_destino
+ORH_O_D,ORIHUECA,Magdalena,aero_destino
+ORI_O_D,ORITO,Putumayo,aero_destino
+ORJ_O_D,LA CULEBRA,Casanare,aero_destino
+ORO_O_D,GUANAPALO,Casanare,aero_destino
+ORS_O_D,SARDINAS,Casanare,aero_destino
+ORU_O_D,EL MEDANO,Casanare,aero_destino
+ORX_O_D,LA CANDELARIA,Casanare,aero_destino
+OTU_O_D,REMEDIOS OTU,Antioquia,aero_destino
+PAL_O_D,PALACIO MUNICIPAL,Antioquia,aero_destino
+PBE_O_D,MORELA,Antioquia,aero_destino
+PBN_O_D,NICOLAS E.SOTO,Boyacá,aero_destino
+PBO_O_D,PUERTO BOLIVAR,La Guajira,aero_destino
+PBR_O_D,LA PONDEROSA,Cundinamarca,aero_destino
+PCA_O_D,PACOA,Vaupés,aero_destino
+PCE_O_D,CUMARIBO,Vichada,aero_destino
+PCH_O_D,ALPES -PACHAQ.,Meta,aero_destino
+PCJ_O_D,PUERTO ALVIRA -CAÑO JABON,Meta,aero_destino
+PCO_O_D,PARACO,Bolívar,aero_destino
+PCR_O_D,GERMAN OLANO,Vichada,aero_destino
+PDE_O_D,LA VENGANZA,Casanare,aero_destino
+PDR_O_D,LA COLONIA,Casanare,aero_destino
+PEI_O_D,MATECAÑA,Risaralda,aero_destino
+PFO_O_D,PUERTO PERALES,Antioquia,aero_destino
+PGA_O_D,PRAGA,Valle del Cauca,aero_destino
+PGM_O_D,PUERTO GAITAN,Meta,aero_destino
+PGN_O_D,SABANETA,Meta,aero_destino
+PGP_O_D,LA PLATA PUERTO TRUJILLO,Meta,aero_destino
+PGT_O_D,MORELIA,Meta,aero_destino
+PID_O_D,PUERTO INIRIDA,Guainía,aero_destino
+PII_O_D,SAN FELIPE,Guainía,aero_destino
+PIM_O_D,LA PRIMAVERA,Vichada,aero_destino
+PIP_O_D,PAIPA JUAN JOSE RONDON,Boyacá,aero_destino
+PLA_O_D,PLANADAS,Tolima,aero_destino
+PLD_O_D,SAN ISIDRO,Meta,aero_destino
+PLL_O_D,PUERTO LLERAS,Meta,aero_destino
+PLN_O_D,PALONEGRO-NORTE,Cesar,aero_destino
+PLS_O_D,TOBASIA,Meta,aero_destino
+PLT_O_D,LAS FLORES,Magdalena,aero_destino
+PMO_O_D,SAN LUIS,Huila,aero_destino
+PNQ_O_D,PINOQUIA,Vichada,aero_destino
+PPN_O_D,GUILLERMO LEON VALENCIA,Cauca,aero_destino
+PPT_O_D,POTRERITO,Tolima,aero_destino
+PQE_O_D,PALANQUERO -GERMAN OLANO,Cundinamarca,aero_destino
+PRA_O_D,LA OPIA,Tolima,aero_destino
+PRC_O_D,PUERTO RICO,Caquetá,aero_destino
+PRE_O_D,SAN JOSE DE OCUNE,Vichada,aero_destino
+PRI_O_D,PRIMERO DE MAYO,Cundinamarca,aero_destino
+PRO_O_D,PORORO,Cesar,aero_destino
+PRR_O_D,JIBICI,Vichada,aero_destino
+PSO_O_D,ANTONIO NARIÑO,Nariño,aero_destino
+PTA_O_D,PALESTINA,Magdalena,aero_destino
+PTC_O_D,LA VICTORIA,Vichada,aero_destino
+PTE_O_D,LA REFORMA,Meta,aero_destino
+PTL_O_D,CONTADOR,Huila,aero_destino
+PTO_O_D,PIRIRI,Meta,aero_destino
+PTS_O_D,LA ESPERANZA,Cundinamarca,aero_destino
+PTW_O_D,GEMELOS DORADOS,Santander,aero_destino
+PTZ_O_D,YATAROS DE MELUA,Meta,aero_destino
+PUE_O_D,PUERTO RICO,Meta,aero_destino
+PUL_O_D,GAVIOTAS,Meta,aero_destino
+PUU_O_D,TRES DE MAYO,Putumayo,aero_destino
+PVA_O_D,EL EMBRUJO,San Andrés islas,aero_destino
+PVO_O_D,EL ALGODONAL,Córdoba,aero_destino
+PWI_O_D,PUERTO WILCHES,Santander,aero_destino
+PWT_O_D,PUERTO WILCHES,Santander,aero_destino
+PZA_O_D,PAZ DE ARIPORO,Casanare,aero_destino
+PZI_O_D,VENECIA DE LAS GUAMAS,Casanare,aero_destino
+PZR_O_D,CHAPARRITO,Casanare,aero_destino
+QPM_O_D,FURATENA,Boyacá,aero_destino
+QQA_O_D,VILLANUEVA,Casanare,aero_destino
+RAV_O_D,CRAVO NORTE,Arauca,aero_destino
+RCH_O_D,ALMIRANTE PADILLA,La Guajira,aero_destino
+RDN_O_D,RONDON,Arauca,aero_destino
+RVE_O_D,COLONIZADORES,Arauca,aero_destino
+SAA_O_D,SANTA ANA,Casanare,aero_destino
+SAS_O_D,SAN CARLOS,Casanare,aero_destino
+SBD_O_D,LA MAGDALENA,Santander,aero_destino
+SBT_O_D,LAS CRUCES,Santander,aero_destino
+SCG_O_D,EL PRADO,Meta,aero_destino
+SCS_O_D,SAN CARLOS DEL PLANAS,Vichada,aero_destino
+SCY_O_D,SAN JERONIMO,Tolima,aero_destino
+SDG_O_D,LA MANSION,Meta,aero_destino
+SFA_O_D,SANTAFE DE ANTIOQUIA,Antioquia,aero_destino
+SGG_O_D,LA FLORIDA,Meta,aero_destino
+SGL_O_D,SAN GIL - LOS POZOS,Santander,aero_destino
+SGU_O_D,YAGUARITO,Meta,aero_destino
+SHL_O_D,SANTA HELENA DE UPIA,Casanare,aero_destino
+SIR_O_D,SIRENAS,Casanare,aero_destino
+SIS_O_D,SANTA ISABEL,Vaupés,aero_destino
+SJE_O_D,JORGE E. GONZALEZ T.,Guaviare,aero_destino
+SJR_O_D,SAN JUAN DE URABA,Antioquia,aero_destino
+SKGB_O_D,"MARCO FIDEL SUAREZ  ""AFB""",Valle del Cauca,aero_destino
+SKTI_O_D,"TOLEMAIDA ""AFB""",Tolima,aero_destino
+SLM_O_D,SAN LUIS,Meta,aero_destino
+SMA_O_D,AGUAS BLANCAS,Cesar,aero_destino
+SMR_O_D,SIMON BOLIVAR,Magdalena,aero_destino
+SMT_O_D,LA CAPRICHOSA,Meta,aero_destino
+SNG_O_D,SANTIAGO No.1,Casanare,aero_destino
+SNL_O_D,HIPILANDIA,Cesar,aero_destino
+SNM_O_D,LA DIVA,Magdalena,aero_destino
+SNP_O_D,SAN PABLO,Córdoba,aero_destino
+SNR_O_D,SAN MARTIN,Meta,aero_destino
+SNU_O_D,SAN MIGUEL,Meta,aero_destino
+SOR_O_D,EL RINCON DE MUCURA,Sucre,aero_destino
+SOX_O_D,ALBERTO LLERAS CAMARGO,Boyacá,aero_destino
+SPD_O_D,SAN PEDRO DE URABA,Antioquia,aero_destino
+SPE_O_D,SAN PEDRO CORAL,Sucre,aero_destino
+SRB_O_D,SANTA ROSA DE SIMITI,Bolívar,aero_destino
+SRO_O_D,SANTA ROSALIA,Vichada,aero_destino
+SRS_O_D,EL ALGARROBO,Sucre,aero_destino
+SRV_O_D,LOS COLONIZADORES,Arauca,aero_destino
+SSC_O_D,SALA 77,Cesar,aero_destino
+SSL_O_D,FALCON,Tolima,aero_destino
+STA_O_D,EL EDEN,Magdalena,aero_destino
+SVI_O_D,EDUARDO FALLA SOLANO,Caquetá,aero_destino
+SVT_O_D,SAN VICENTE DE CHUCURI,Santander,aero_destino
+TAP_O_D,TARAPACA,Amazonas,aero_destino
+TAR_O_D,TARAIRA,Vaupés,aero_destino
+TBQ_O_D,TIMBIQUI,Cauca,aero_destino
+TBU_O_D,TIBU,Norte de Santander,aero_destino
+TCO_O_D,LA FLORIDA,Nariño,aero_destino
+TDA_O_D,TRINIDAD,Casanare,aero_destino
+TDI_O_D,ELF TRINIDAD,Casanare,aero_destino
+TIB_O_D,TIERRA BLANCA,Valle del Cauca,aero_destino
+TLU_O_D,TOLU,Sucre,aero_destino
+TME_O_D,GUSTAVO VARGAS,Arauca,aero_destino
+TNU_O_D,PROVIDENCIA,Casanare,aero_destino
+TPI_O_D,TOMACHIPAN,Guaviare,aero_destino
+TQS_O_D,SOLANO,Caquetá,aero_destino
+TRB_O_D,GONZALO MEJIA,Antioquia,aero_destino
+TRD_O_D,PALMARITO 2,Casanare,aero_destino
+TRI_O_D,LOS TOROS,Casanare,aero_destino
+TRP_O_D,TARAPACA,Amazonas,aero_destino
+TRR_O_D,TRES RIOS,Guaviare,aero_destino
+TUN_O_D,TUNJA,Boyacá,aero_destino
+UIB_O_D,EL CARAÑO,Chocó,aero_destino
+ULQ_O_D,FARFAN HERIBERTO GIL MAR,Valle del Cauca,aero_destino
+URA_O_D,PUERTO ESTRELLA,La Guajira,aero_destino
+URM_O_D,URIBE,Meta,aero_destino
+URR_O_D,ALI PIEDRAHITA,Antioquia,aero_destino
+VAL_O_D,VALENCIA,Córdoba,aero_destino
+VAP_O_D,CAMPO ALEGRE,Cesar,aero_destino
+VAR_O_D,VARSOVIA,Caquetá,aero_destino
+VCC_O_D,EL DIAMANTE,Meta,aero_destino
+VDF_O_D,VIGIA DEL FUERTE,Antioquia,aero_destino
+VDP_O_D,MADACI,Cesar,aero_destino
+VEL_O_D,VELASQUEZ,Boyacá,aero_destino
+VGP_O_D,CANANGUCHAL,Putumayo,aero_destino
+VIC_O_D,EL CONVENTO,Meta,aero_destino
+VIH_O_D,VISTA HERMOSA,Meta,aero_destino
+VIL_O_D,PALMAS DEL CASANARE,Casanare,aero_destino
+VLA_O_D,VILLANUEVA,Casanare,aero_destino
+VLL_O_D,VILLANUEVA,La Guajira,aero_destino
+VLU_O_D,PALMAR DE ORIENTE,Casanare,aero_destino
+VNL_O_D,COLEGIAL,Casanare,aero_destino
+VNU_O_D,SOCEAGRO,Casanare,aero_destino
+VUP_O_D,ALFONSO LOPEZ PUMAREJO,Cesar,aero_destino
+VVA_O_D,VILLANUEVA,Antioquia,aero_destino
+VVC_O_D,VANGUARDIA,Meta,aero_destino
+VVD_O_D,LAS BRISAS,Meta,aero_destino
+VVN_O_D,NEIVA YORK - MILENA,Meta,aero_destino
+VVU_O_D,SANTA ISABEL,Meta,aero_destino
+YAG_O_D,YAGUARA II,Caquetá,aero_destino
+YOP_O_D,TROMPILLOS,Casanare,aero_destino
+YPL_O_D,CIENAGA,Casanare,aero_destino
+YPP_O_D,GERMAN ALBERTO,Casanare,aero_destino
+YYP_O_D,LOS CABROS,Casanare,aero_destino
+ZPS_O_D,GUILLERMO GOMEZ ORTIZ,Santander,aero_destino
+ACAPULCO,ACAPULCO,Caldas,peaje
+AGUAS NEGRAS,AGUAS NEGRAS,Santander,peaje
+ALBARRACIN,ALBARRACIN,Cundinamarca,peaje
+ALTAMIRA,ALTAMIRA,Huila,peaje
+ALTO PINO,ALTO PINO,La Guajira,peaje
+ALVARADO,ALVARADO,Tolima,peaje
+AMAGA,AMAGA,Antioquia,peaje
+BAYUNCA,BAYUNCA,Bolivar,peaje
+CAIMANERA,CAIMANERA,Sucre,peaje
+CALAMAR,CALAMAR,Bolivar,peaje
+CAMBAO,CAMBAO,Cundinamarca,peaje
+CANO,CANO,Narino,peaje
+CASABLANCA,CASABLANCA,Cundinamarca,peaje
+CASETABLA,CASETABLA,Meta,peaje
+CENCAR,CENCAR,Valle del Cauca,peaje
+CERRITOS II,CERRITOS II,Risaralda,peaje
+CHICORAL,CHICORAL,Tolima,peaje
+CIAT,CIAT,Valle del Cauca,peaje
+CIRCASIA,CIRCASIA,Quindio,peaje
+CISNEROS,CISNEROS,Antioquia,peaje
+COCORNA,COCORNA,Antioquia,peaje
+COROZAL,COROZAL,Valle del Cauca,peaje
+DAZA,DAZA,Narino,peaje
+EL CARMEN,EL CARMEN,Bolivar,peaje
+EL COPEY,EL COPEY,Cesar,peaje
+EL DIFICIL,EL DIFICIL,Magdalena,peaje
+EL EBANAL,EL EBANAL,La Guajira,peaje
+EL ESCOBAL,EL ESCOBAL,Norte de Santander,peaje
+EL KORAN,EL KORAN,Cundinamarca,peaje
+EL ROBLE,EL ROBLE,Cundinamarca,peaje
+ESTAMBUL,ESTAMBUL,Valle del Cauca,peaje
+GAMARRA,GAMARRA,Cesar,peaje
+GAMBOTE,GAMBOTE,Bolivar,peaje
+GUALANDAY,GUALANDAY,Tolima,peaje
+GUARNE,GUARNE,Antioquia,peaje
+GUATAQUI,GUATAQUI,Cundinamarca,peaje
+HONDA,HONDA,Tolima,peaje
+LA APARTADA,LA APARTADA,Cordoba,peaje
+LA CABANA,LA CABANA,Cundinamarca,peaje
+LA ESPERANZA,LA ESPERANZA,Sucre,peaje
+LA GOMEZ,LA GOMEZ,Santander,peaje
+LA LOMA,LA LOMA,Cesar,peaje
+LA PARADA,LA PARADA,Norte de Santander,peaje
+LA PINTADA,LA PINTADA,Antioquia,peaje
+LAS FLORES,LAS FLORES,Sucre,peaje
+LAS PALMAS,LAS PALMAS,Antioquia,peaje
+LEBRIJA,LEBRIJA,Santander,peaje
+LOS ACACIOS,LOS ACACIOS,Norte de Santander,peaje
+LOS CAUCHOS,LOS CAUCHOS,Huila,peaje
+LOS CUROS,LOS CUROS,Santander,peaje
+MACHETA,MACHETA,Cundinamarca,peaje
+MARAHUACO,MARAHUACO,Bolivar,peaje
+MATA DE CANA,MATA DE CANA,Cordoba,peaje
+MEDIACANOA,MEDIACANOA,Valle del Cauca,peaje
+MORRISON,MORRISON,Cesar,peaje
+OIBA,OIBA,Santander,peaje
+PAILITAS,PAILITAS,Cesar,peaje
+PALMITAS,PALMITAS,Antioquia,peaje
+PAPIROS,PAPIROS,Atlantico,peaje
+PARAGUACHON,PARAGUACHON,La Guajira,peaje
+PASACABALLOS,PASACABALLOS,Bolivar,peaje
+PASO DE LA TORRE,PASO DE LA TORRE,Valle del Cauca,peaje
+PIPIRAL,PIPIRAL,Meta,peaje
+PLATANAL,PLATANAL,Cesar,peaje
+PUENTE PLATO,PUENTE PLATO,Magdalena,peaje
+PUERTO BERRIO,PUERTO BERRIO,Antioquia,peaje
+PUERTO COLOMBIA,PUERTO COLOMBIA,Atlantico,peaje
+RINCON HONDO,RINCON HONDO,Cesar,peaje
+RIO BOGOTA,RIO BOGOTA,Cundinamarca,peaje
+RIO SOGAMOSO,RIO SOGAMOSO,Santander,peaje
+RIONEGRO,RIONEGRO,Santander,peaje
+ROZO,ROZO,Valle del Cauca,peaje
+SABANAGRANDE,SABANAGRANDE,Atlantico,peaje
+SABOYA,SABOYA,Boyaca,peaje
+SAN CARLOS,SAN CARLOS,Cordoba,peaje
+SAN CRISTOBAL,SAN CRISTOBAL,Antioquia,peaje
+SAN DIEGO,SAN DIEGO,Cesar,peaje
+SAN JUAN,SAN JUAN,La Guajira,peaje
+SAN ONOFRE,SAN ONOFRE,Sucre,peaje
+SIBERIA,SIBERIA,Cundinamarca,peaje
+SUPIA,SUPIA,Caldas,peaje
+TARAPACA I,TARAPACA I,Caldas,peaje
+TARAPACA II,TARAPACA II,Risaralda,peaje
+TUCURINCA,TUCURINCA,Magdalena,peaje
+TUNIA,TUNIA,Cauca,peaje
+TURBACO,TURBACO,Bolivar,peaje
+TUTA,TUTA,Boyaca,peaje
+VALENCIA,VALENCIA,Cesar,peaje
+VILLARICA,VILLARICA,Cauca,peaje
+ZAMBITO,ZAMBITO,Santander,peaje
+ACAPULCO,ACAPULCO,Caldas,peaje
+AGUAS NEGRAS,AGUAS NEGRAS,Santander,peaje
+ALBARRACIN,ALBARRACIN,Cundinamarca,peaje
+ALTAMIRA,ALTAMIRA,Huila,peaje
+ALTO PINO,ALTO PINO,La Guajira,peaje
+ALVARADO,ALVARADO,Tolima,peaje
+AMAGA,AMAGA,Antioquia,peaje
+BAYUNCA,BAYUNCA,Bolivar,peaje
+CAIMANERA,CAIMANERA,Sucre,peaje
+CALAMAR,CALAMAR,Bolivar,peaje
+CAMBAO,CAMBAO,Cundinamarca,peaje
+CANO,CANO,Narino,peaje
+CASABLANCA,CASABLANCA,Cundinamarca,peaje
+CASETABLA,CASETABLA,Meta,peaje
+CENCAR,CENCAR,Valle del Cauca,peaje
+CERRITOS II,CERRITOS II,Risaralda,peaje
+CHICORAL,CHICORAL,Tolima,peaje
+CIAT,CIAT,Valle del Cauca,peaje
+CIRCASIA,CIRCASIA,Quindio,peaje
+CISNEROS,CISNEROS,Antioquia,peaje
+COCORNA,COCORNA,Antioquia,peaje
+COROZAL,COROZAL,Valle del Cauca,peaje
+DAZA,DAZA,Narino,peaje
+EL CARMEN,EL CARMEN,Bolivar,peaje
+EL COPEY,EL COPEY,Cesar,peaje
+EL DIFICIL,EL DIFICIL,Magdalena,peaje
+EL EBANAL,EL EBANAL,La Guajira,peaje
+EL ESCOBAL,EL ESCOBAL,Norte de Santander,peaje
+EL KORAN,EL KORAN,Cundinamarca,peaje
+EL ROBLE,EL ROBLE,Cundinamarca,peaje
+ESTAMBUL,ESTAMBUL,Valle del Cauca,peaje
+GAMARRA,GAMARRA,Cesar,peaje
+GAMBOTE,GAMBOTE,Bolivar,peaje
+GUALANDAY,GUALANDAY,Tolima,peaje
+GUARNE,GUARNE,Antioquia,peaje
+GUATAQUI,GUATAQUI,Cundinamarca,peaje
+HONDA,HONDA,Tolima,peaje
+LA APARTADA,LA APARTADA,Cordoba,peaje
+LA CABANA,LA CABANA,Cundinamarca,peaje
+LA ESPERANZA,LA ESPERANZA,Sucre,peaje
+LA GOMEZ,LA GOMEZ,Santander,peaje
+LA LOMA,LA LOMA,Cesar,peaje
+LA PARADA,LA PARADA,Norte de Santander,peaje
+LA PINTADA,LA PINTADA,Antioquia,peaje
+LAS FLORES,LAS FLORES,Sucre,peaje
+LAS PALMAS,LAS PALMAS,Antioquia,peaje
+LEBRIJA,LEBRIJA,Santander,peaje
+LOS ACACIOS,LOS ACACIOS,Norte de Santander,peaje
+LOS CAUCHOS,LOS CAUCHOS,Huila,peaje
+LOS CUROS,LOS CUROS,Santander,peaje
+MACHETA,MACHETA,Cundinamarca,peaje
+MARAHUACO,MARAHUACO,Bolivar,peaje
+MATA DE CANA,MATA DE CANA,Cordoba,peaje
+MEDIACANOA,MEDIACANOA,Valle del Cauca,peaje
+MORRISON,MORRISON,Cesar,peaje
+OIBA,OIBA,Santander,peaje
+PAILITAS,PAILITAS,Cesar,peaje
+PALMITAS,PALMITAS,Antioquia,peaje
+PAPIROS,PAPIROS,Atlantico,peaje
+PARAGUACHON,PARAGUACHON,La Guajira,peaje
+PASACABALLOS,PASACABALLOS,Bolivar,peaje
+PASO DE LA TORRE,PASO DE LA TORRE,Valle del Cauca,peaje
+PIPIRAL,PIPIRAL,Meta,peaje
+PLATANAL,PLATANAL,Cesar,peaje
+PUENTE PLATO,PUENTE PLATO,Magdalena,peaje
+PUERTO BERRIO,PUERTO BERRIO,Antioquia,peaje
+PUERTO COLOMBIA,PUERTO COLOMBIA,Atlantico,peaje
+RINCON HONDO,RINCON HONDO,Cesar,peaje
+RIO BOGOTA,RIO BOGOTA,Cundinamarca,peaje
+RIO SOGAMOSO,RIO SOGAMOSO,Santander,peaje
+RIONEGRO,RIONEGRO,Santander,peaje
+ROZO,ROZO,Valle del Cauca,peaje
+SABANAGRANDE,SABANAGRANDE,Atlantico,peaje
+SABOYA,SABOYA,Boyaca,peaje
+SAN CARLOS,SAN CARLOS,Cordoba,peaje
+SAN CRISTOBAL,SAN CRISTOBAL,Antioquia,peaje
+SAN DIEGO,SAN DIEGO,Cesar,peaje
+SAN JUAN,SAN JUAN,La Guajira,peaje
+SAN ONOFRE,SAN ONOFRE,Sucre,peaje
+SIBERIA,SIBERIA,Cundinamarca,peaje
+SUPIA,SUPIA,Caldas,peaje
+TARAPACA I,TARAPACA I,Caldas,peaje
+TARAPACA II,TARAPACA II,Risaralda,peaje
+TUCURINCA,TUCURINCA,Magdalena,peaje
+TUNIA,TUNIA,Cauca,peaje
+TURBACO,TURBACO,Bolivar,peaje
+TUTA,TUTA,Boyaca,peaje
+VALENCIA,VALENCIA,Cesar,peaje
+VILLARICA,VILLARICA,Cauca,peaje
+ZAMBITO,ZAMBITO,Santander,peaje
+ACAPULCO,ACAPULCO,Caldas,peaje
+AGUAS NEGRAS,AGUAS NEGRAS,Santander,peaje
+ALBARRACIN,ALBARRACIN,Cundinamarca,peaje
+ALTAMIRA,ALTAMIRA,Huila,peaje
+ALTO PINO,ALTO PINO,La Guajira,peaje
+ALVARADO,ALVARADO,Tolima,peaje
+AMAGA,AMAGA,Antioquia,peaje
+BAYUNCA,BAYUNCA,Bolivar,peaje
+CAIMANERA,CAIMANERA,Sucre,peaje
+CALAMAR,CALAMAR,Bolivar,peaje
+CAMBAO,CAMBAO,Cundinamarca,peaje
+CANO,CANO,Narino,peaje
+CASABLANCA,CASABLANCA,Cundinamarca,peaje
+CASETABLA,CASETABLA,Meta,peaje
+CENCAR,CENCAR,Valle del Cauca,peaje
+CERRITOS II,CERRITOS II,Risaralda,peaje
+CHICORAL,CHICORAL,Tolima,peaje
+CIAT,CIAT,Valle del Cauca,peaje
+CIRCASIA,CIRCASIA,Quindio,peaje
+CISNEROS,CISNEROS,Antioquia,peaje
+COCORNA,COCORNA,Antioquia,peaje
+COROZAL,COROZAL,Valle del Cauca,peaje
+DAZA,DAZA,Narino,peaje
+EL CARMEN,EL CARMEN,Bolivar,peaje
+EL COPEY,EL COPEY,Cesar,peaje
+EL DIFICIL,EL DIFICIL,Magdalena,peaje
+EL EBANAL,EL EBANAL,La Guajira,peaje
+EL ESCOBAL,EL ESCOBAL,Norte de Santander,peaje
+EL KORAN,EL KORAN,Cundinamarca,peaje
+EL ROBLE,EL ROBLE,Cundinamarca,peaje
+ESTAMBUL,ESTAMBUL,Valle del Cauca,peaje
+GAMARRA,GAMARRA,Cesar,peaje
+GAMBOTE,GAMBOTE,Bolivar,peaje
+GUALANDAY,GUALANDAY,Tolima,peaje
+GUARNE,GUARNE,Antioquia,peaje
+GUATAQUI,GUATAQUI,Cundinamarca,peaje
+HONDA,HONDA,Tolima,peaje
+LA APARTADA,LA APARTADA,Cordoba,peaje
+LA CABANA,LA CABANA,Cundinamarca,peaje
+LA ESPERANZA,LA ESPERANZA,Sucre,peaje
+LA GOMEZ,LA GOMEZ,Santander,peaje
+LA LOMA,LA LOMA,Cesar,peaje
+LA PARADA,LA PARADA,Norte de Santander,peaje
+LA PINTADA,LA PINTADA,Antioquia,peaje
+LAS FLORES,LAS FLORES,Sucre,peaje
+LAS PALMAS,LAS PALMAS,Antioquia,peaje
+LEBRIJA,LEBRIJA,Santander,peaje
+LOS ACACIOS,LOS ACACIOS,Norte de Santander,peaje
+LOS CAUCHOS,LOS CAUCHOS,Huila,peaje
+LOS CUROS,LOS CUROS,Santander,peaje
+MACHETA,MACHETA,Cundinamarca,peaje
+MARAHUACO,MARAHUACO,Bolivar,peaje
+MATA DE CANA,MATA DE CANA,Cordoba,peaje
+MEDIACANOA,MEDIACANOA,Valle del Cauca,peaje
+MORRISON,MORRISON,Cesar,peaje
+OIBA,OIBA,Santander,peaje
+PAILITAS,PAILITAS,Cesar,peaje
+PALMITAS,PALMITAS,Antioquia,peaje
+PAPIROS,PAPIROS,Atlantico,peaje
+PARAGUACHON,PARAGUACHON,La Guajira,peaje
+PASACABALLOS,PASACABALLOS,Bolivar,peaje
+PASO DE LA TORRE,PASO DE LA TORRE,Valle del Cauca,peaje
+PIPIRAL,PIPIRAL,Meta,peaje
+PLATANAL,PLATANAL,Cesar,peaje
+PUENTE PLATO,PUENTE PLATO,Magdalena,peaje
+PUERTO BERRIO,PUERTO BERRIO,Antioquia,peaje
+PUERTO COLOMBIA,PUERTO COLOMBIA,Atlantico,peaje
+RINCON HONDO,RINCON HONDO,Cesar,peaje
+RIO BOGOTA,RIO BOGOTA,Cundinamarca,peaje
+RIO SOGAMOSO,RIO SOGAMOSO,Santander,peaje
+RIONEGRO,RIONEGRO,Santander,peaje
+ROZO,ROZO,Valle del Cauca,peaje
+SABANAGRANDE,SABANAGRANDE,Atlantico,peaje
+SABOYA,SABOYA,Boyaca,peaje
+SAN CARLOS,SAN CARLOS,Cordoba,peaje
+SAN CRISTOBAL,SAN CRISTOBAL,Antioquia,peaje
+SAN DIEGO,SAN DIEGO,Cesar,peaje
+SAN JUAN,SAN JUAN,La Guajira,peaje
+SAN ONOFRE,SAN ONOFRE,Sucre,peaje
+SIBERIA,SIBERIA,Cundinamarca,peaje
+SUPIA,SUPIA,Caldas,peaje
+TARAPACA I,TARAPACA I,Caldas,peaje
+TARAPACA II,TARAPACA II,Risaralda,peaje
+TUCURINCA,TUCURINCA,Magdalena,peaje
+TUNIA,TUNIA,Cauca,peaje
+TURBACO,TURBACO,Bolivar,peaje
+TUTA,TUTA,Boyaca,peaje
+VALENCIA,VALENCIA,Cesar,peaje
+VILLARICA,VILLARICA,Cauca,peaje
+ZAMBITO,ZAMBITO,Santander,peaje
